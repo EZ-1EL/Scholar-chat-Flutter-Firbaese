@@ -2,6 +2,13 @@
 
 Flutter chat application using Firebase Authentication and Cloud Firestore. Users can register, log in, and exchange messages in real time with a clean, responsive UI.
 
+![Screenshot](https://github.com/EZ-1EL/Scholar-chat-Flutter-Firbaese/blob/main/assets/login.jpg)
+![Screenshot](https://github.com/EZ-1EL/Scholar-chat-Flutter-Firbaese/blob/main/assets/contact.jpg)
+![Screenshot](https://github.com/EZ-1EL/Scholar-chat-Flutter-Firbaese/blob/main/assets/chat.jpg)
+
+
+
+
 ### Features
 - **Email/Password auth**: Register and log in with Firebase Authentication.
 - **Real-time messaging**: Messages are stored in Cloud Firestore and streamed live.
